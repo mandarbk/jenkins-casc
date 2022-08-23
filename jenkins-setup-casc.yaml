@@ -1,0 +1,176 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          id: "Github-springbootapp"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "jenkins"
+      - usernamePassword:
+          description: "auth using tokens"
+          id: "Gitub-token-auth"
+          password: "{AQAAABAAAAAwKybf1vdsKGVKzUxUtoqQOb0qL7Oy8RRC4753GU3S9EHXLV5RCxp3YZpMLaSSnjH1FYUr8lVYPv+eehZSQ7xVwQ==}"
+          scope: GLOBAL
+          username: "mandarbk"
+      - aws:
+          iamExternalId: "JenkiinsEC2Role"
+          iamRoleArn: "arn:aws:iam::935223387304:role/Ec2ECRRole"
+          id: "8c393cd8-c4af-4657-b191-f026aa2b465d"
+          scope: GLOBAL
+          secretKey: "{AQAAABAAAAAQqTmZstsW/3wEkVsCf2OOkN1ryEs8qVn8CbDDjPC4VbQ=}"
+      - aws:
+          accessKey: "AKIA5TP5IMSUC5GDOCXX"
+          description: "AWS CLI V2 Credentials"
+          id: "aws-cli-v2-credentials"
+          scope: GLOBAL
+          secretKey: "{AQAAABAAAAAweqEyUq1MC9v6hQpmpBV/w7rFMzSA5BFfIk55iE2LKaizYuBgJltA3fs22g8XlNY4x1Z84eDtxoMX1276Je8h6A==}"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "jenkins.diagnostics.ControllerExecutorsNoAgents"
+  labelAtoms:
+  - name: "built-in"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "Mandar"
+        properties:
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "mandarbk@gmail.com"
+        - "apiToken"
+  slaveAgentPort: -1
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "acceptFirstConnectionStrategy"
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://ec2-44-203-135-160.compute-1.amazonaws.com:8080/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  globalTimeOutConfiguration:
+    operations:
+    - "abortOperation"
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://ec2-44-203-135-160.compute-1.amazonaws.com:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pluginImpl:
+    enableCredentialsFromNode: false
+  pollSCM:
+    pollingThreadCount: 10
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  dockerTool:
+    installations:
+    - name: "Docker"
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  jdk:
+    installations:
+    - name: "Java11"
+      properties:
+      - installSource:
+          installers:
+          - jdkInstaller:
+              acceptLicense: true
+              id: "jdk-9.0.4-oth-JPR"
+  maven:
+    installations:
+    - name: "Maven-3.8.6"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.8.6"
